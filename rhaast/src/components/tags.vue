@@ -45,10 +45,10 @@
               </div>
               <div class="page">
                 <div class="changePage">
-                  <div class="inline" @click="lastPage"><img src="../assets/back.svg" width="60px" height="30px;"></div>
+                  <div class="inline" @click="lastPage"><img src="../assets/img/back.svg" width="60px" height="30px;"></div>
                   <div class="getPosition"></div>
                   <div class="showPage">{{nowPage}} / {{pages}}</div>
-                  <div class="inline" @click="nextPage"><img src="../assets/next.svg" width="60px" height="30px;"></div>
+                  <div class="inline" @click="nextPage"><img src="../assets/img/next.svg" width="60px" height="30px;"></div>
                 </div>
         </div>
 
